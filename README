@@ -1,1 +1,10 @@
-For transfer
+Model Links:
+https://huggingface.co/Helsinki-NLP/opus-mt-ja-en - 303MB Model
+https://huggingface.co/google/mt5-small
+https://huggingface.co/sonoisa/t5-base-japanese
+
+Llama3 70B (not 3.1)
+https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct
+
+For Code Completion:
+https://huggingface.co/collections/meta-llama/code-llama-family-661da32d0a9d678b6f55b933
